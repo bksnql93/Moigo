@@ -12,6 +12,11 @@
 			<form:errors path="email" />
 		</p>
 		<p>
+			<form:input path="email" class="txt"
+				style="height: 40px; font-size:24pt;" placeholder="이메일" />
+			<form:errors path="email" />
+		</p>
+		<p>
 			<label>&nbsp;</label>
 		</p>
 		<p>
