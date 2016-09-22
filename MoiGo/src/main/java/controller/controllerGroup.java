@@ -7,4 +7,5 @@ public class controllerGroup {
 	public String addGroup(){
 		return "dirMem/group";
 	}
+/*	그룹그룹그룹*/
 }
