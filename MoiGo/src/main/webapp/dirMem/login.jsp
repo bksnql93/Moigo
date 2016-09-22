@@ -6,6 +6,8 @@
 <title>MoiGo</title>
 </head>
 <body>
-
+<form action="login" method="post">
+<input type="button" onclick="addGroup();" value="모임개설" />
+</form>
 </body>
 </html>
